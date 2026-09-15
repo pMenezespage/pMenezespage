@@ -13,7 +13,7 @@ I’m currently studying Systems Development and I’m interested in technology,
  
 #
 
-<img align="right" alt="Butterfly" height="190px" src="./butterfly_transparent.gif">
+<img align="right" alt="Butterfly" height="190px" src=".src/butterfly_transparent.gif">
 
 <h3 align="left">Connect with me!</h3>
 
